@@ -14,6 +14,8 @@
 		A6397E9221895C4000157A4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6397E9021895C4000157A4B /* LaunchScreen.storyboard */; };
 		A6397E9D21895C4000157A4B /* FinalLabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6397E9C21895C4000157A4B /* FinalLabTests.swift */; };
 		A6397EA821895C4000157A4B /* FinalLabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6397EA721895C4000157A4B /* FinalLabUITests.swift */; };
+		A6397EB621895E8D00157A4B /* CardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6397EB521895E8D00157A4B /* CardsViewController.swift */; };
+		A6397EB821897F0F00157A4B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6397EB721897F0F00157A4B /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		A6397EA321895C4000157A4B /* FinalLabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalLabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6397EA721895C4000157A4B /* FinalLabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalLabUITests.swift; sourceTree = "<group>"; };
 		A6397EA921895C4000157A4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6397EB521895E8D00157A4B /* CardsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsViewController.swift; sourceTree = "<group>"; };
+		A6397EB721897F0F00157A4B /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				A6397E8E21895C4000157A4B /* Assets.xcassets */,
 				A6397E9021895C4000157A4B /* LaunchScreen.storyboard */,
 				A6397E9321895C4000157A4B /* Info.plist */,
+				A6397EB521895E8D00157A4B /* CardsViewController.swift */,
+				A6397EB721897F0F00157A4B /* ProfileViewController.swift */,
 			);
 			path = FinalLab;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				A6397E8A21895C3E00157A4B /* ViewController.swift in Sources */,
 				A6397E8821895C3E00157A4B /* AppDelegate.swift in Sources */,
+				A6397EB821897F0F00157A4B /* ProfileViewController.swift in Sources */,
+				A6397EB621895E8D00157A4B /* CardsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
